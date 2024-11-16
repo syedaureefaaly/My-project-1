@@ -1,0 +1,21 @@
+.projects-container {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .projects-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .projects-list li {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  
