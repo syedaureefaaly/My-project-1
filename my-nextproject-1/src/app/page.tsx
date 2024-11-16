@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Navbar />
       <main className="home-container fade-in">
-        <h1 className="bounce">Welcome to Syeda Ureefa Ali's Portfolio</h1>
+        <h1 className="bounce">Welcome to Syeda Ureefa Ali Portfolio</h1>
         <p>This is a brief introduction about me.</p>
         <Image
          src="/images/image.png"
